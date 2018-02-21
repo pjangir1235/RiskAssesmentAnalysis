@@ -1,0 +1,7 @@
+server:
+  port: 8079
+
+kafka:
+  consumer:
+    bootstrap: localhost:9092
+    
